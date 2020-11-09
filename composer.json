@@ -1,6 +1,7 @@
 {
     "name": "php-http/socket-client",
     "description": "Socket client for PHP-HTTP",
+    "version": "2.0.0-beta1",
     "license": "MIT",
     "authors": [
         {
